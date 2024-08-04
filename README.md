@@ -2,6 +2,10 @@
 Patika+ Fullstack Bootcamp Week4 OOP Practice
 
 
+![Oopweek4](https://github.com/user-attachments/assets/8640ac4a-6eb2-4dc6-b99e-7d8abcc25705)
+
+
+
 We get Phone and Computer records at a technology store.
 
 Phone -> Production Date, Serial Number, Name, Description, Operating System, TR Licensed or not.
