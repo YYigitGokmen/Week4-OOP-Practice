@@ -110,7 +110,7 @@ namespace OOPWeek4Practice
             Console.Write("Plese enter your Pc name: ");
             Name= Console.ReadLine();
 
-            Console.WriteLine($"Bilgisayarınızın adı: {Name}");
+            Console.WriteLine($"Your Pc name : {Name}");
         }
 
         public void DisplayDateTime()
